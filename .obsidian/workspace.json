@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "**Topics List**.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for **Topics List**"
             }
           },
           {
@@ -176,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7064018456f2616",
+  "active": "c379c6c2c52a892c",
   "lastOpenFiles": [
+    "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
     "**Topics List**.md",
     "• **withContext Change the coroutine context (including dispatcher) within a suspending function..md",
+    "README.md",
     "• **suspend Mark a function as suspending, allowing coroutine suspension points..md",
     "• **runBlocking** Block the current thread until the coroutine completes..md",
     "• **SupervisorJob A job that allows its children to fail independently..md",

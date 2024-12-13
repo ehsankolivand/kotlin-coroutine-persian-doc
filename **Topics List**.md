@@ -19,86 +19,87 @@ Below is a structured list of the topics, followed by a suggested one-week study
 [[• **withContext Change the coroutine context (including dispatcher) within a suspending function.]]
 
 
-• **CoroutineScope**: Defines a scope for managing coroutine lifecycles and context.
+[[•  CoroutineScope Defines a scope for managing coroutine lifecycles and context.]]
+
 
 [[• **supervisorScope  A scope where child coroutine failures don’t cancel the entire scope.]]
 
 [[• **SupervisorJob A job that allows its children to fail independently.]]
 
 
-• **CoroutineExceptionHandler**: Handles uncaught exceptions in coroutines.
+• **CoroutineExceptionHandler** Handles uncaught exceptions in coroutines.
 
-• **join**: Suspend until a given job completes.
+• **join**  Suspend until a given job completes.
 
-• **await**: Suspend until a Deferred result is available.
+• **await** Suspend until a Deferred result is available.
 
-• **yield**: Temporarily suspend to allow other coroutines to run.
+• **yield**  Temporarily suspend to allow other coroutines to run.
 
-• **delay**: Non-blocking suspension for a specified time.
+• **delay** Non-blocking suspension for a specified time.
 
 • **Dispatchers** (Default, IO, Main, Unconfined): Determine which threads coroutines run on.
 
-• **coroutineScope**: Create a new coroutine scope and suspend until all coroutines in it complete.
+• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete.
 
   
 
 **2. Channels and Actors**
 
-• **channel**: Mechanism for communication and data transfer between coroutines.
+• **channel**  Mechanism for communication and data transfer between coroutines.
 
-• **produce**: Create a producer coroutine that sends values to a channel.
+• **produce** Create a producer coroutine that sends values to a channel.
 
-• **actor**: A coroutine-based actor model for state management via channels.
+• **actor** A coroutine-based actor model for state management via channels.
 
   
 
 **3. Flows and Flow Operators**
 
-• **flow**: Represent asynchronous data streams.
+• **flow**  Represent asynchronous data streams.
 
-• **flowOn**: Change the dispatcher for flow emission.
+• **flowOn**  Change the dispatcher for flow emission.
 
-• **buffer**: Add buffering to a flow for performance.
+• **buffer**  Add buffering to a flow for performance.
 
-• **conflate**: Skip intermediate values to reduce emissions.
+• **conflate**  Skip intermediate values to reduce emissions.
 
-• **catch**: Handle exceptions within a flow.
+• **catch**  Handle exceptions within a flow.
 
-• **retry**: Attempt re-collection after flow errors.
+• **retry**  Attempt re-collection after flow errors.
 
-• **debounce**: Emit after a timeout to reduce rapid consecutive emissions.
+• **debounce**  Emit after a timeout to reduce rapid consecutive emissions.
 
 • **throttleFirst / throttleLatest**: Control emission rate by taking only the first or latest value in given intervals.
 
-• **sample**: Emit values periodically.
+• **sample**  Emit values periodically.
 
-• **zip / combine**: Merge multiple flows into one, pairing or combining values.
+• **zip / combine**  Merge multiple flows into one, pairing or combining values.
 
 • **flatMapConcat / flatMapMerge / flatMapLatest**: Transform and flatten flows of flows.
 
-• **StateFlow**: A flow that holds a state value and replays the last emission.
+• **StateFlow**  A flow that holds a state value and replays the last emission.
 
-• **SharedFlow**: A flow that can emit values to multiple collectors simultaneously.
+• **SharedFlow**  A flow that can emit values to multiple collectors simultaneously.
 
-• **shareIn / stateIn**: Convert a flow into a shared stateful flow within a given scope.
+• **shareIn / stateIn**  Convert a flow into a shared stateful flow within a given scope.
 
-• **launchIn**: Collect a flow in a specified coroutine scope.
+• **launchIn**  Collect a flow in a specified coroutine scope.
 
   
 
 **4. Low-level and Experimental APIs**
 
-• **suspendCoroutine**: Create suspending functions by interacting with a continuation directly.
+• **suspendCoroutine**  Create suspending functions by interacting with a continuation directly.
 
-• **suspendCancellableCoroutine**: A cancellable variant of suspendCoroutine.
+• **suspendCancellableCoroutine**  A cancellable variant of suspendCoroutine.
 
-• **invokeOnCompletion**: Register callbacks to run when a Job completes.
+• **invokeOnCompletion**  Register callbacks to run when a Job completes.
 
   
 
 **5. Advanced and Niche Topics**
 
-• **Rare use cases**:
+• **Rare use cases** 
 
 • Game development loops
 
@@ -134,11 +135,11 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 **6. Integration with Other Technologies**
 
-• **Spring Integration**: Asynchronous components in Spring using coroutines.
+• **Spring Integration**  Asynchronous components in Spring using coroutines.
 
-• **Ktor**: Asynchronous HTTP servers/clients with coroutines.
+• **Ktor**  Asynchronous HTTP servers/clients with coroutines.
 
-• **Database Access**: Non-blocking database operations (e.g., with Exposed or Room).
+• **Database Access**  Non-blocking database operations (e.g., with Exposed or Room).
 
   
 
