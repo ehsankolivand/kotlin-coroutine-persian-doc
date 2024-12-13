@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "**Topics List**"
+              "title": "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context."
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for **Topics List**"
+              "title": "Backlinks for •  CoroutineScope Defines a scope for managing coroutine lifecycles and context."
             }
           },
           {
@@ -179,8 +179,8 @@
   },
   "active": "c379c6c2c52a892c",
   "lastOpenFiles": [
-    "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
     "**Topics List**.md",
+    "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
     "• **withContext Change the coroutine context (including dispatcher) within a suspending function..md",
     "README.md",
     "• **suspend Mark a function as suspending, allowing coroutine suspension points..md",
