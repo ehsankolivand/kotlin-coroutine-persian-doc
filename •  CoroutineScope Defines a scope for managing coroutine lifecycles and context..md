@@ -19,6 +19,7 @@
   
 
 `CoroutineScope`
+
 یک رابط (interface) در کاتلین است که محدوده‌ای برای اجرای کوروتین‌ها تعریف می‌کند. این محدوده به مدیریت چرخه حیات کوروتین‌ها کمک کرده و از نشت حافظه جلوگیری می‌کند. هر سازنده کوروتین (مانند `launch` و `async`) یک اکستنشن بر روی `CoroutineScope` است و از `coroutineContext` آن به ارث می‌برد تا به‌صورت خودکار تمام المان‌ها و لغو (cancellation) را انتقال دهد. [oai_citation_attribution:4‡Kotlin](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-coroutine-scope/?utm_source=chatgpt.com)
 
   
@@ -36,11 +37,13 @@
   
 
 - ****Job****:
+
 - کنترل‌کننده چرخه حیات کوروتین که اطلاعاتی مانند تکمیل یا شکست آن را در بر می‌گیرد.
 
   
 
 - ****CoroutineContext****:
+
 - محیط اجرایی کوروتین را تعیین می‌کند، از جمله دیسپچری که کوروتین روی آن اجرا می‌شود.
 
   

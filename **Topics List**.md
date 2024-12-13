@@ -27,7 +27,7 @@ Below is a structured list of the topics, followed by a suggested one-week study
 [[• **SupervisorJob A job that allows its children to fail independently.]]
 
 
-• **CoroutineExceptionHandler** Handles uncaught exceptions in coroutines.
+[[• **CoroutineExceptionHandler** Handles uncaught exceptions in coroutines.]]
 
 • **join**  Suspend until a given job completes.
 
