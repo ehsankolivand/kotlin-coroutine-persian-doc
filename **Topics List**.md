@@ -29,7 +29,8 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 [[• **CoroutineExceptionHandler** Handles uncaught exceptions in coroutines.]]
 
-• **join**  Suspend until a given job completes.
+•[[ **join**  Suspend until a given job completes.]]
+
 
 • **await** Suspend until a Deferred result is available.
 
