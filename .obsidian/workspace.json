@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "**join**  Suspend until a given job completes..md",
+                "file": "**Topics List**.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "**join**  Suspend until a given job completes."
+              "title": "**Topics List**"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "**join**  Suspend until a given job completes..md",
+                "file": "**Topics List**.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for **join**  Suspend until a given job completes."
+              "title": "Backlinks for **Topics List**"
             }
           },
           {
@@ -161,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c379c6c2c52a892c",
+  "active": "4e211d6c3f663e8b",
   "lastOpenFiles": [
-    "**Topics List**.md",
     "**join**  Suspend until a given job completes..md",
+    "• **await** Suspend until a Deferred result is available..md",
+    "**Topics List**.md",
     "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
     "• **supervisorScope  A scope where child coroutine failures don’t cancel the entire scope..md",
     "• aunch Start a new coroutine without returning a result..md",

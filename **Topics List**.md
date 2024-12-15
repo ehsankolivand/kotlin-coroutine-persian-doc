@@ -32,7 +32,8 @@ Below is a structured list of the topics, followed by a suggested one-week study
 •[[ **join**  Suspend until a given job completes.]]
 
 
-• **await** Suspend until a Deferred result is available.
+[[• **await** Suspend until a Deferred result is available.]]
+
 
 • **yield**  Temporarily suspend to allow other coroutines to run.
 
