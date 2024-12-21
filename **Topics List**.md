@@ -37,7 +37,8 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 [[• **yield**  Temporarily suspend to allow other coroutines to run.]]
 
-• **delay** Non-blocking suspension for a specified time.
+[[• **delay** Non-blocking suspension for a specified time.]]
+
 
 • **Dispatchers** (Default, IO, Main, Unconfined): Determine which threads coroutines run on.
 
