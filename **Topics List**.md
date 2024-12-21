@@ -40,7 +40,9 @@ Below is a structured list of the topics, followed by a suggested one-week study
 [[• **delay** Non-blocking suspension for a specified time.]]
 
 
-• **Dispatchers** (Default, IO, Main, Unconfined): Determine which threads coroutines run on.
+[[• **Dispatchers** (Default, IO, Main, Unconfined) Determine which threads coroutines run on.]]
+
+
 
 • **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete.
 
