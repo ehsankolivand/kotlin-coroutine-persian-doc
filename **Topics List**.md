@@ -35,7 +35,7 @@ Below is a structured list of the topics, followed by a suggested one-week study
 [[• **await** Suspend until a Deferred result is available.]]
 
 
-• **yield**  Temporarily suspend to allow other coroutines to run.
+[[• **yield**  Temporarily suspend to allow other coroutines to run.]]
 
 • **delay** Non-blocking suspension for a specified time.
 

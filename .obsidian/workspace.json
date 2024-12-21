@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b6b5cece10ea5c",
+        "id": "e3e79b64c452e581",
         "type": "tabs",
         "children": [
           {
-            "id": "c379c6c2c52a892c",
+            "id": "8b631b8769724c24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "**Topics List**.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "**Topics List**"
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "**Topics List**.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for **Topics List**"
+              "title": "Backlinks"
             }
           },
           {
@@ -161,11 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e211d6c3f663e8b",
+  "active": "8b631b8769724c24",
   "lastOpenFiles": [
-    "**join**  Suspend until a given job completes..md",
-    "• **await** Suspend until a Deferred result is available..md",
+    "• **yield**  Temporarily suspend to allow other coroutines to run..md",
     "**Topics List**.md",
+    "• **await** Suspend until a Deferred result is available..md",
+    "**join**  Suspend until a given job completes..md",
     "•  CoroutineScope Defines a scope for managing coroutine lifecycles and context..md",
     "• **supervisorScope  A scope where child coroutine failures don’t cancel the entire scope..md",
     "• aunch Start a new coroutine without returning a result..md",
