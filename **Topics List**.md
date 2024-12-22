@@ -44,7 +44,7 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 
 
-• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete.
+[[• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete.]]
 
   
 
