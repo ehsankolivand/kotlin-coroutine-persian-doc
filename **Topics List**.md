@@ -50,7 +50,8 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 **2. Channels and Actors**
 
-• **channel**  Mechanism for communication and data transfer between coroutines.
+[[• **channel**  Mechanism for communication and data transfer between coroutines.]]
+
 
 • **produce** Create a producer coroutine that sends values to a channel.
 

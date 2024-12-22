@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "• **channel**  Mechanism for communication and data transfer between coroutines..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "**Topics List**"
+              "title": "• **channel**  Mechanism for communication and data transfer between coroutines."
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "• **channel**  Mechanism for communication and data transfer between coroutines..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for **Topics List**"
+              "title": "Backlinks for • **channel**  Mechanism for communication and data transfer between coroutines."
             }
           },
           {
@@ -161,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e211d6c3f663e8b",
+  "active": "e1128b3ccd8b1c93",
   "lastOpenFiles": [
-    "• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete..md",
     "**Topics List**.md",
+    "• **channel**  Mechanism for communication and data transfer between coroutines..md",
+    "• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete..md",
     "• **Dispatchers** (Default, IO, Main, Unconfined) Determine which threads coroutines run on..md",
     "• **delay** Non-blocking suspension for a specified time..md",
     "• **yield**  Temporarily suspend to allow other coroutines to run..md",
