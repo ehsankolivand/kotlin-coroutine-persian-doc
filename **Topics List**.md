@@ -48,20 +48,14 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
   
 
-**2. Channels and Actors**
+**2. Channels 
 
 [[• **channel**  Mechanism for communication and data transfer between coroutines.]]
 
 
-• **produce** Create a producer coroutine that sends values to a channel.
-
-• **actor** A coroutine-based actor model for state management via channels.
-
-  
-
 **3. Flows and Flow Operators**
 
-• **flow**  Represent asynchronous data streams.
+[[• **flow**  Represent asynchronous data streams.]]
 
 • **flowOn**  Change the dispatcher for flow emission.
 
