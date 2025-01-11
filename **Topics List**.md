@@ -57,13 +57,13 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 [[• **flow**  Represent asynchronous data streams.]]
 
-• **flowOn**  Change the dispatcher for flow emission.
+[[• **flowOn**  Change the dispatcher for flow emission.]]
 
-• **buffer**  Add buffering to a flow for performance.
+[[• **buffer**  Add buffering to a flow for performance.]]
 
-• **conflate**  Skip intermediate values to reduce emissions.
+• [[**conflate**  Skip intermediate values to reduce emissions.]]
 
-• **catch**  Handle exceptions within a flow.
+[[• **catch**  Handle exceptions within a flow.]]
 
 • **retry**  Attempt re-collection after flow errors.
 
