@@ -65,11 +65,11 @@ Below is a structured list of the topics, followed by a suggested one-week study
 
 [[• **catch**  Handle exceptions within a flow.]]
 
-• **retry**  Attempt re-collection after flow errors.
+[[• **retry**  Attempt re-collection after flow errors.]]
 
-• **debounce**  Emit after a timeout to reduce rapid consecutive emissions.
+•[[ **debounce**  Emit after a timeout to reduce rapid consecutive emissions.]]
 
-• **throttleFirst / throttleLatest**: Control emission rate by taking only the first or latest value in given intervals.
+•[[ **throttleFirst / throttleLatest** Control emission rate by taking only the first or latest value in given intervals.]]
 
 • **sample**  Emit values periodically.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "**throttleFirst / throttleLatest** Control emission rate by taking only the first or latest value in given intervals..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "**Topics List**"
+              "title": "throttleLatest** Control emission rate by taking only the first or latest value in given intervals."
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "**Topics List**.md",
+                "file": "**throttleFirst / throttleLatest** Control emission rate by taking only the first or latest value in given intervals..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for **Topics List**"
+              "title": "Backlinks for  throttleLatest** Control emission rate by taking only the first or latest value in given intervals."
             }
           },
           {
@@ -163,9 +163,14 @@
   },
   "active": "e1128b3ccd8b1c93",
   "lastOpenFiles": [
-    "**conflate**  Skip intermediate values to reduce emissions..md",
-    "• **catch**  Handle exceptions within a flow..md",
     "**Topics List**.md",
+    "**throttleFirst / throttleLatest** Control emission rate by taking only the first or latest value in given intervals..md",
+    "**throttleFirst ",
+    "**debounce**  Emit after a timeout to reduce rapid consecutive emissions..md",
+    "• **retry**  Attempt re-collection after flow errors..md",
+    "• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete..md",
+    "• **catch**  Handle exceptions within a flow..md",
+    "**conflate**  Skip intermediate values to reduce emissions..md",
     "• aunch Start a new coroutine without returning a result..md",
     "• **buffer**  Add buffering to a flow for performance..md",
     "• **flowOn**  Change the dispatcher for flow emission..md",
@@ -174,7 +179,6 @@
     "• **actor** A coroutine-based actor model for state management via channels..md",
     "**join**  Suspend until a given job completes..md",
     "• **channel**  Mechanism for communication and data transfer between coroutines..md",
-    "• **coroutineScope** Create a new coroutine scope and suspend until all coroutines in it complete..md",
     "• **Dispatchers** (Default, IO, Main, Unconfined) Determine which threads coroutines run on..md",
     "• **delay** Non-blocking suspension for a specified time..md",
     "• **await** Suspend until a Deferred result is available..md",
@@ -185,7 +189,6 @@
     "README.md",
     "• **suspend Mark a function as suspending, allowing coroutine suspension points..md",
     "• **runBlocking** Block the current thread until the coroutine completes..md",
-    "• **SupervisorJob A job that allows its children to fail independently..md",
-    "• asyncStart a new coroutine returning a Deferred result..md"
+    "• **SupervisorJob A job that allows its children to fail independently..md"
   ]
 }
